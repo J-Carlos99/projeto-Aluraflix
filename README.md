@@ -1,2 +1,2 @@
 # projeto-Aluraflix
-Aluraflix criado na imersão Aura 
+Aluraflix criado na imersão Alura 
